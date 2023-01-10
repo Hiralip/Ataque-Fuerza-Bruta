@@ -7,8 +7,11 @@ Es una forma de descifrar una contraseña, nombre de usuario o descubrir la clav
 ¿CUAL ES EL OBJETIVO?
 
 CORREO ELECTRÓNICO: Pueden obtener nuestros datos personales y contactos. 
+
 RED SOCIAL: Hay probabilidades de que suplanten nuestra identidad. 
+
 DATOS BANCARIOS: Pueden realizar transferencias a su cuenta o realizar compras sin nuestro consentimiento.
+
 
 DATO CURIOSO
 
